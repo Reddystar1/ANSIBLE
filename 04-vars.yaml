@@ -1,4 +1,4 @@
-- name: play-01
+- name: play level variables
   hosts: local
   connections: local #ansible is connecting
   vars:
